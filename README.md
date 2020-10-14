@@ -15,7 +15,7 @@ npm start
 ```JAVASCRIPT
 {
   "template": "FileName", // available template is "template.png"
-  "image": "FileName", // available template is "kid.png"
+  "image": "FileName", // available image is "kid.png"
   "imageDetails": {
     "startPoint": ["x","y"],
     "width": "Number",
