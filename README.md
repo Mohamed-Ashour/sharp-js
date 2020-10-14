@@ -1,17 +1,17 @@
 # sharp-js
 
-### Install dependencies
+#### Install dependencies
 ```
 npm i
 ```
 
-### Start the server
+#### Start the server
 ```
 npm start
 ```
 
-### Send a POST request for `/create` route with this body
-#### to embed image in the template with custom position, width height and angel
+#### Send a POST request for `/create` route with this body
+##### to embed image in the template with custom position, width, height, and angel
 ```JAVASCRIPT
 {
   "template": "FileName", // available template is "template.png"
@@ -25,7 +25,7 @@ npm start
 }
 ```
 
-### Example:
+#### Example:
 ```sh
 curl --location --request POST 'localhost:3000/create' \
 --header 'Content-Type: application/json' \
