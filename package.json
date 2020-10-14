@@ -1,0 +1,26 @@
+{
+  "name": "sharp-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed-Ashour/sharp-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed-Ashour/sharp-js/issues"
+  },
+  "homepage": "https://github.com/Mohamed-Ashour/sharp-js#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "joi": "^17.2.1",
+    "sharp": "^0.26.1"
+  }
+}
